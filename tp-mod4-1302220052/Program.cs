@@ -16,6 +16,18 @@ internal class Program
         Console.WriteLine("Kode Pos Samoja: " + kodePosKujangSamoja);
         Console.WriteLine("");
 
-    }
+        
+        DoorMachine door = new DoorMachine();
+
+        
+        Console.WriteLine(" ");
+        door.Buka(); 
+        door.Buka(); 
+        door.Kunci(); 
+        door.Kunci(); 
+    }
 }
+
+    
+
   
