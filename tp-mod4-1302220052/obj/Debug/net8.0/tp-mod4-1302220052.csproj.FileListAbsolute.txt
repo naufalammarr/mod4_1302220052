@@ -1,0 +1,14 @@
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\bin\Debug\net8.0\tp-mod4-1302220052.exe
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\bin\Debug\net8.0\tp-mod4-1302220052.deps.json
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\bin\Debug\net8.0\tp-mod4-1302220052.runtimeconfig.json
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\bin\Debug\net8.0\tp-mod4-1302220052.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\bin\Debug\net8.0\tp-mod4-1302220052.pdb
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.AssemblyInfoInputs.cache
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.AssemblyInfo.cs
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.csproj.CoreCompileInputs.cache
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\refint\tp-mod4-1302220052.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.pdb
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.genruntimeconfig.cache
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\ref\tp-mod4-1302220052.dll
