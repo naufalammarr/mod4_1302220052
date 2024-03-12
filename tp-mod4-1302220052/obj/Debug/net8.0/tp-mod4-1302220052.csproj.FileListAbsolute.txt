@@ -12,3 +12,4 @@ C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220
 C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.pdb
 C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.genruntimeconfig.cache
 C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\ref\tp-mod4-1302220052.dll
+C:\Users\naufalammar\Documents\SEMESTER 4\KPL\tp-mod4-1302220052\tp-mod4-1302220052\obj\Debug\net8.0\tp-mod4-1302220052.sourcelink.json

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{31267F48-2B25-44BD-85D7-61364F171EE6}|tp-mod4-1302220052\\tp-mod4-1302220052.csproj|c:\\users\\naufalammar\\documents\\semester 4\\kpl\\tp-mod4-1302220052\\tp-mod4-1302220052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31267F48-2B25-44BD-85D7-61364F171EE6}|tp-mod4-1302220052\\tp-mod4-1302220052.csproj|solutionrelative:tp-mod4-1302220052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31267F48-2B25-44BD-85D7-61364F171EE6}|tp-mod4-1302220052\\tp-mod4-1302220052.csproj|c:\\users\\naufalammar\\documents\\semester 4\\kpl\\tp-mod4-1302220052\\tp-mod4-1302220052\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31267F48-2B25-44BD-85D7-61364F171EE6}|tp-mod4-1302220052\\tp-mod4-1302220052.csproj|solutionrelative:tp-mod4-1302220052\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kodepos.cs",
+              "DocumentMoniker": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\tp-mod4-1302220052\\tp-mod4-1302220052\\kodepos.cs",
+              "RelativeDocumentMoniker": "tp-mod4-1302220052\\kodepos.cs",
+              "ToolTip": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\tp-mod4-1302220052\\tp-mod4-1302220052\\kodepos.cs",
+              "RelativeToolTip": "tp-mod4-1302220052\\kodepos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:06:41.676Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +42,7 @@
               "RelativeDocumentMoniker": "tp-mod4-1302220052\\Program.cs",
               "ToolTip": "C:\\Users\\naufalammar\\Documents\\SEMESTER 4\\KPL\\tp-mod4-1302220052\\tp-mod4-1302220052\\Program.cs",
               "RelativeToolTip": "tp-mod4-1302220052\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T17:59:34.525Z",
               "EditorCaption": ""
